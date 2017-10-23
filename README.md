@@ -1,4 +1,4 @@
-#### Note: Not yet published on NPM and needs tests to be written.
+#### Note: Not yet published on NPM.
 
 # async-bluebird
 
