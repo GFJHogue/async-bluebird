@@ -1,5 +1,3 @@
-#### Note: Not yet published on NPM.
-
 # async-bluebird
 
 A [`bluebird` promisified](http://bluebirdjs.com/docs/api/promise.promisify.html) wrap of [`async`](https://github.com/caolan/async) - async utitlities for node and the browser.
