@@ -1,5 +1,7 @@
 # async-bluebird
 
+[![npm version](https://badge.fury.io/js/async-bluebird.svg)](https://badge.fury.io/js/async-bluebird) [![Build Status](https://travis-ci.org/GFJHogue/async-bluebird.svg?branch=master)](https://travis-ci.org/GFJHogue/async-bluebird)
+
 A [`bluebird` promisified](http://bluebirdjs.com/docs/api/promise.promisify.html) wrap of [`async`](https://github.com/caolan/async) - async utitlities for node and the browser.
 
 I made this because I felt like it's more productive than manually wrapping `async` functions with Promises every time I want to use them.
