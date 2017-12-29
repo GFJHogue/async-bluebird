@@ -2,7 +2,7 @@
   "name": "async-bluebird",
   "version": "1.0.2",
   "description": "Promisified utilities for node and the browser",
-  "main": "index.js",
+  "main": "./lib",
   "scripts": {
     "test": "mocha test/"
   },
